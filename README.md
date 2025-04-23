@@ -2,7 +2,7 @@
 
 # PHP Package Template
 
-A template for creating PHP packages.
+A template for creating PHP 8.3+ packages.
 
 ## License
 
