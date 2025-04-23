@@ -31,3 +31,7 @@ This template includes the following tools and configurations:
 ## Getting Started
 
 If you like what you've seen so far and think this setup fits your needs, you can quickly get started by clicking the **Use this template** button at the top of the repository on GitHub.
+
+## Contributing
+
+Before contributing to this project, please refer to the [contributing](./CONTRIBUTING.md) documentation.
