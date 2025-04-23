@@ -1,3 +1,9 @@
+# Ignore PhpStorm project files
+.idea/
+
+# Ignore VSCode project files
+.vscode/
+
 # Ignore vendor dependencies
 /vendor
 
