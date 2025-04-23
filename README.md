@@ -1,3 +1,5 @@
+![PHP Package Template](https://raw.githubusercontent.com/andrewdyer/andrewdyer/refs/heads/main/assets/images/covers/php-package-template.png)
+
 # PHP Package Template
 
 A template for creating PHP packages.
