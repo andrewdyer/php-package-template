@@ -1,0 +1,17 @@
+{
+  "name": "your-vendor/your-package",
+  "description": "",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "YourVendor\\YourPackage\\": "src/"
+    }
+  },
+  "require": {
+    "php": "^8.3"
+  },
+  "config": {
+    "sort-packages": true
+  },
+  "minimum-stability": "stable"
+}
