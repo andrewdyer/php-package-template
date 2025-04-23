@@ -27,3 +27,7 @@ This template includes the following tools and configurations:
 - [PHPUnit](https://phpunit.de/) for unit testing to ensure the reliability of your code.
 - [PHP Coding Standards Fixer](https://cs.symfony.com/) for maintaining consistent code style.
 - CI (Continuous Integration) setup with [GitHub Actions](https://github.com/features/actions) for automated testing.
+
+## Getting Started
+
+If you like what you've seen so far and think this setup fits your needs, you can quickly get started by clicking the **Use this template** button at the top of the repository on GitHub.
