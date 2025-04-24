@@ -34,4 +34,4 @@ If you like what you've seen so far and think this setup fits your needs, you ca
 
 ## Contributing
 
-Before contributing to this project, please refer to the [contributing](./CONTRIBUTING.md) documentation.
+Found a bug or want to improve this package? Feel free to open a pull request or submit an issue.
