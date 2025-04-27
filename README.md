@@ -1,4 +1,4 @@
-![PHP Package Template](https://raw.githubusercontent.com/andrewdyer/andrewdyer/refs/heads/main/assets/images/covers/php-package-template.png)
+![PHP Package Template](https://raw.githubusercontent.com/andrewdyer/public-assets/refs/heads/main/images/covers/php-package-template.png)
 
 # PHP Package Template
 
